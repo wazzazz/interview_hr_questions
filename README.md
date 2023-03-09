@@ -47,7 +47,7 @@ And one of latest is app for Dubai Police.
 Due to relocation and vacation.
   
 # What are your salary expectations?
-After researching market ranges from multiple sources online and taking into account my education, experience, and location, I’m targeting roles with base salaries in the range of [60-70 dollars]. Of course, I’m also taking into account opportunities for long-term growth with an emphasis on purpose-driven work as I evaluate and weigh options — and my values are closely aligned with your organization’s mission. I intend to be a high performing asset to your company.
+After researching market ranges from multiple sources online and taking into account my education, and experience, I’m targeting roles with base salaries in the range of [60000-70000 dollars]. Of course, I’m also taking into account opportunities for long-term growth with an emphasis on purpose-driven work as I evaluate and weigh options — and my values are closely aligned with your organization’s mission. I intend to be a high performing asset to your company.
 
 I am seeking a base salary within the range of $[dollar amount] to $[dollar amount]. I’ve seen similar roles that are offering $[dollar amount]. My specific experience and years in the field are closely aligned with this position, making me a strong candidate to be able to jump in and quickly add value. 
 
@@ -73,7 +73,7 @@ Three years ago, I was tasked with estimating the time it would take to develop 
 In my experience, I believe that people are not inherently difficult. Rather, differences in backgrounds and levels of information can make it challenging to understand another person's perspective. I encountered a situation where I had a clear idea of how to develop a feature based on my previous experience, and I knew what the back-end developer needed to do. However, the back-end developer wanted to simplify the solution, which made it difficult to come to an agreement. To resolve this, I took the time to explain the details to the developer and provided them with resources to help them understand better. We were able to have a positive argument, and in the end, the feature was completed successfully.
 
 # Tell me about a time you had to persuade someone.
-	The same as before.
+The same as before.
   
 # Tell me about a time you disagreed with someone.
 This is a part of my work to disagree and offer better solutions. The same as before.
