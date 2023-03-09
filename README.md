@@ -62,7 +62,8 @@ To manage these conflicting priorities, I first communicated with my manager to 
 I also collaborated with the project managers and other team members involved to ensure that everyone was aware of the plan and any potential delays or issues that may arise. By staying organized, communicating effectively, and managing my time efficiently, I was able to successfully complete both projects on time and to the satisfaction of the clients.
 
 # Where do you see yourself in 5 years?
-I have just started to seek  work for a European company. So in 5 years it would be great to have a great experience on that way.
+<!-- So in 5 years it would be great to have a great experience on that way. -->
+Oh, It's hard to say in one sentence I guess. In Russia I wanted to be efficient as a developer and team lead, also I had thoughts about my own company or project. But now I started to seek work for a European company, the new path and I am not sure. Lets say be very usefull as a developer, contributing my skills.
 
 # Describe your leadership style.
 In a word, supportive. I think it is important to understand the unique strengths and blind spots of my team members and direct reports. Knowing how to work with a range of experience, skills, and working styles plays a big role in the success of a team. To effectively lead, I had to know when to step in and course correct, and when to let them make their own mistakes and learn by experience for maximum growth.
