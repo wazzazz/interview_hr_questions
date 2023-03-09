@@ -29,7 +29,8 @@ Overall, I believe that my strong leadership skills, coupled with my technical e
 
 # What would your co-workers say about you?
 I hope that they would likely describe me as a reliable and hardworking person who is always willing to lend a helping hand to others. They would appreciate my positive attitude and ability to work well under pressure. They may also highlight my ability to communicate effectively, share knowledge and experience with them, and adapt to changes and challenges in the workplace.
-Why do you want to leave your current role?
+
+# Why do you want to leave your current role?
 Due to the relocation to Turkey, and necessity to work remotely abroad (political company rules). But I have great relationships.
 
 # Describe your most challenging project.
