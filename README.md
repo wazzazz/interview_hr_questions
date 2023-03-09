@@ -55,7 +55,8 @@ That said, I understand that this base salary range might be on the higher end o
 
 # What do you like to do outside of work?
 I am passionate about traveling to other countries, going to the gym and skiing.
-Tell me about a time you had to manage conflicting priorities.
+
+# Tell me about a time you had to manage conflicting priorities.
 During my time as a frontend developer at ITFB company, I was assigned to work on multiple projects simultaneously, each with their own deadlines and priorities. At one point, I was tasked with completing a redesign for a high-priority client while also implementing new features for a separate project that had a fast-approaching launch date.
 To manage these conflicting priorities, I first communicated with my manager to gain clarity on the deadlines and importance of each project. I then created a detailed plan outlining the tasks and timelines for each project, prioritizing the high-priority client project and allocating time for the new feature implementation in between.
 I also collaborated with the project managers and other team members involved to ensure that everyone was aware of the plan and any potential delays or issues that may arise. By staying organized, communicating effectively, and managing my time efficiently, I was able to successfully complete both projects on time and to the satisfaction of the clients.
