@@ -1,6 +1,6 @@
 # Tell me about yourself.
 My name is Eugene and I am a software developer with more than eight years of experience, specializing in frontend development. I graduated from Moscow Aviation Institute as a Master of Computer Engineering in 2014 (5.5 year curriculum focusing on application development, networks, algorithms, software architecture design, microprocessors and peripherals). 
-I started my career as an engineer at JSC "NIIP named after V.V. Tikhomirov", working with C/C++ languages, and later moved to backend development using C# at CROC company. 
+I started my career as an engineer at JSC "NIIP named after V.V. Tikhomirov", working with C/C++ languages, and later moved to fullstack development using C# and VBA at CROC company. 
 Over time, I gained experience in full stack development, but ultimately found my passion in frontend development. I have had the opportunity to work with various companies, including banks and courts, where I developed high-quality user interfaces. 
 In my previous role at ITFB Group, I led a team of developers to build a marketplace for the sale of building materials from scratch, utilizing cutting-edge technologies such as ReactJS, Redux, and Typescript. 
 My skills also extend to software architecture development, UI design, and software testing, and I have strong leadership abilities including team management, mentoring, and task decomposition. I am thrilled at the opportunity to join your company as a frontend developer and contribute my skills and experience to the team.
